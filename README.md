@@ -267,7 +267,6 @@ MIT License — free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-⭐ **Star this repo if it helped you!** ⭐
 
 *Built with real data · Real insights · Real business thinking*
 
