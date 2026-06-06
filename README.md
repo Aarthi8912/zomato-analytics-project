@@ -253,7 +253,7 @@ Techniques used: `CTE`, `Window Functions`, `RANK / DENSE_RANK / NTILE`, `PERCEN
 
 ** Data Analyzer **
 
-- 📧 aarthia776@gmail.com.com
+- 📧 aarthia776@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/s-aarthi-825a29262)
 - 🐙 [GitHub](https://github.com/Aarthi8912)
 
